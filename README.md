@@ -8,22 +8,24 @@ This project analyzes solar energy production data using Python.
 - Matplotlib
 
 ## Features
-- Data loading
-- Statistical analysis
-- Average calculation
-- Maximum production detection
-- Data visualization
-- Rolling average analysis
+- Loads solar production dataset
+- Calculates statistics (average, maximum)
+- Computes rolling averages
+- Visualizes production trends
 
-## How to run
+## Output Example
+
+![Graph](graph.png)
+
+## Run the Project
 
 Install dependencies:
 
 pip install -r requirements.txt
 
-Run project:
+Run:
 
-python analysis.py
+py analysis.py
 
 ## Purpose
 
